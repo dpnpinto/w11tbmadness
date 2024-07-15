@@ -1,2 +1,3 @@
 # w11tbmadness
-Taskbar of windows 11
+
+In this days Windows 11 is a FOS OS. I put some things here that help me to resolve some issues, only because I have ti use it in my job.
